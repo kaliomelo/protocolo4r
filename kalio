@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Protocolo 4R | Alimentação e Endometriose</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fdfdfd; color: #333; }
+    .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+    h1, h2, h3 { color: #2c3e50; }
+    a.botao {
+      display: inline-block;
+      background: #27ae60;
+      color: white;
+      padding: 15px 25px;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 18px;
+      margin: 20px 0;
+    }
+    a.botao:hover { background: #219150; }
+    .destaque { background: #eafaf1; padding: 15px; border-left: 5px solid #27ae60; margin: 20px 0; }
+    blockquote { font-style: italic; margin: 20px 0; padding-left: 20px; border-left: 4px solid #ccc; }
+    footer { text-align: center; margin-top: 40px; font-size: 14px; color: #777; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🌿 PROTOCOLO 4R</h1>
+    <h2>Programa de Alimentação e Endometriose</h2>
+    <h3>Alívio natural dos sintomas. Mais qualidade de vida.</h3>
+
+    <p>Sofre com dores, fadiga e os impactos da endometriose no dia a dia?</p>
+    <p>O <strong>PROTOCOLO 4R</strong> é um programa completo e 100% online, baseado em estratégias nutricionais que ajudam a controlar a inflamação, restaurar o equilíbrio intestinal e <strong>reduzir significativamente os sintomas da endometriose.</strong></p>
+
+    <h3>✅ O que você vai aprender no Protocolo 4R?</h3>
+    <ul>
+      <li><strong>Remover</strong>: alimentos inflamatórios e gatilhos alimentares</li>
+      <li><strong>Repor</strong>: nutrientes essenciais para o bom funcionamento do organismo</li>
+      <li><strong>Reinocular</strong>: microbiota intestinal com alimentos e estratégias probióticas</li>
+      <li><strong>Reparar</strong>: o intestino e o equilíbrio hormonal</li>
+    </ul>
+
+    <h3>💡 Ideal para você que...</h3>
+    <ul>
+      <li>Está cansada de depender apenas de medicamentos;</li>
+      <li>Deseja um caminho natural e baseado em ciência;</li>
+      <li>Quer recuperar sua energia, bem-estar e qualidade de vida;</li>
+      <li>Precisa de orientação clara, prática e passo a passo.</li>
+    </ul>
+
+    <div class="destaque">
+      <h3>📦 O que está incluso no programa?</h3>
+      <ul>
+        <li>Aulas em vídeo com nutricionista especialista</li>
+        <li>Material de apoio em PDF</li>
+        <li>Cardápios e sugestões práticas</li>
+        <li>Acesso imediato e vitalício</li>
+        <li>Suporte por e-mail</li>
+      </ul>
+    </div>
+
+    <h3>📈 Resultados de quem já aplicou o Protocolo 4R</h3>
+    <blockquote>
+      “Em menos de 30 dias, minhas dores reduziram drasticamente.”<br>
+      — <em>Camila S.</em>
+    </blockquote>
+    <blockquote>
+      “Senti minha disposição voltar, e até meu ciclo melhorou muito.”<br>
+      — <em>Juliana M.</em>
+    </blockquote>
+
+    <h3>🔒 Garantia incondicional de 7 dias</h3>
+    <p>Você tem uma semana para testar. Se não for para você, devolvemos seu dinheiro sem burocracia.</p>
+
+    <a class="botao" href="https://go.hotmart.com/G100078263M?dp=1" target="_blank">QUERO O PROTOCOLO 4R AGORA</a>
+
+    <p><strong>⚠️ Vagas limitadas. Aproveite enquanto ainda está disponível!</strong></p>
+
+    <footer>
+      Página criada por afiliado autorizado. Direitos do produto pertencem à autora original.
+    </footer>
+  </div>
+</body>
+</html>
